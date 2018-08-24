@@ -11,8 +11,8 @@
 #ifdef	__cplusplus
 extern "C" {
 #endif
-
-
+    
+#include <p18cxxx.h>
 
 
 #ifdef	__cplusplus

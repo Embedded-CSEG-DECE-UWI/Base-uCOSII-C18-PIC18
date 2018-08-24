@@ -5,14 +5,12 @@
  * Created on August 24, 2018, 6:47 PM
  */
 
-#include <stdio.h>
-#include <stdlib.h>
 
 /*
  * 
  */
-int main(int argc, char** argv) {
+void main(void) {
 
-    return (EXIT_SUCCESS);
+    return;
 }
 
