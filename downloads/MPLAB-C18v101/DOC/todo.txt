@@ -1,0 +1,16 @@
+                         uC/OS-II, The Real-Time Kernel
+
+                                   PIC18xxx
+                                 (Large Model)
+
+                                   TODO FILE
+                           V1.01 - December 20, 2002
+
+-------------------------------------------------------------------------------
+  - Make interrupts use their own stack, this reduces the required stack
+    size of each process.  May not be required by not saving program return stack.
+
+  - Make OS_ENTER_CRITICAL() and OS_EXIT_CRITICAL() work with integer
+    promotion enabled.
+
+  - Test with optimizations.

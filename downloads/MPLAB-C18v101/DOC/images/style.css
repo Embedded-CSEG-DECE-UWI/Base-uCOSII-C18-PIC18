@@ -1,0 +1,80 @@
+a.Menu:link {
+	text-decoration: none;
+	color: #0000FF;
+
+}
+a.Menu:visited {
+	text-decoration: none;
+}
+a.Menu:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+a.Menu:active {
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+a.TopMenu:link {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+a.TopMenu:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+a.TopMenu:hover {
+	color: #FFA8A8;
+	text-decoration: underline overline;
+	font-weight: bold;
+
+}
+a.TopMenu:active {
+	color: #FFFFFF;
+	text-decoration: underline overline;
+	font-weight: bold;
+
+}
+
+a:link {
+	color: #0000FF;
+	text-decoration: none;
+}
+a:visited {
+	color: #000099;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+a:active {
+	color: #FF0000;
+	text-decoration: underline;
+}
+h1 {
+	margin-bottom: 0px;
+	font-size: medium;
+	color: #0000FF;
+	font-weight: bold;
+
+}
+h2 {
+	font-weight: bold;
+	color: #0000FF;
+	font-size: small;
+
+}
+pre {
+	border: 2px solid #000000;
+	margin-bottom: 0px;
+	padding-right: 5px;
+	padding-left: 5px;
+
+
+
+}
