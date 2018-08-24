@@ -1,1 +1,1 @@
-Expanded zip files
+Expanded zip files with extraneous files removed
